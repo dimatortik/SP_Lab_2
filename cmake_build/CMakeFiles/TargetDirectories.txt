@@ -1,0 +1,4 @@
+/Users/dimazanuda/Desktop/SP_Course/calculator/cmake_build/CMakeFiles/calculator_lib.dir
+/Users/dimazanuda/Desktop/SP_Course/calculator/cmake_build/CMakeFiles/calculator.dir
+/Users/dimazanuda/Desktop/SP_Course/calculator/cmake_build/CMakeFiles/edit_cache.dir
+/Users/dimazanuda/Desktop/SP_Course/calculator/cmake_build/CMakeFiles/rebuild_cache.dir
